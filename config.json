@@ -1,0 +1,11 @@
+{
+  "bot": {
+      "id": "735996232895430717",
+      "token": "NzM1OTk2MjMyODk1NDMwNzE3.XxoX6A.2HxI1B6Q_hvS7Kp3IWpujmXTMfU", 
+      "secret": "cPhkBl0IbEzwhsKH6wu0pnPW9LjBfj1D"
+  },
+  "dashboard": {
+      "url": "http://localhost:3000/"
+  },
+  "mongoURL": "http://localhost:3000/"
+}
